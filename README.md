@@ -1,6 +1,7 @@
+# Flask React.js Template
 
-# Run
+## Run
 './run.sh'
 
-# Start Gulp (to compile JSX)
+## Start Gulp (to compile JSX)
 'gulp'
