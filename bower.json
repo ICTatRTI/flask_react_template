@@ -1,0 +1,24 @@
+{
+  "name": "ultimate-flask-front-end-1",
+  "authors": [
+    "Adam Preston <adam.m.preston@gmail.com>"
+  ],
+  "description": "This is a demo applicaiton for learning new things.",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "react": "^15.0.2",
+    "jquery": "^2.2.3",
+    "babel": "*"
+  }
+}
